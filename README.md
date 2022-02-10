@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sghim
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on golang
